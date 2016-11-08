@@ -19,7 +19,7 @@ allprojects {
         jcenter()
     }
 }
-
+//测试提交
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
